@@ -1,4 +1,3 @@
-// src/components/PredictionResult.tsx
 import React from "react";
 import type { PredictionResponse } from "../types";
 

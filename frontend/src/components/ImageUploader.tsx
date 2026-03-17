@@ -1,4 +1,3 @@
-// src/components/ImageUploader.tsx
 import React from "react";
 
 interface Props {
